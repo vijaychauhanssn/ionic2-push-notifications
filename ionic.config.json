@@ -1,5 +1,8 @@
 {
   "name": "ionic2-local-notifications",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "12f768ca",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
