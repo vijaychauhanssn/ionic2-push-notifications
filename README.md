@@ -2,6 +2,10 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 
 ## How to use this template
 
+Ionid services setup:http://docs.ionic.io/services/push/
+
+http://docs.ionic.io/setup.html
+
 *This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
 
 To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
@@ -18,8 +22,8 @@ $ ionic start myBlank blank
 Then, to run it, cd into `myBlank` and run:
 
 ```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
+$ ionic cordova platform add android
+$ ionic cordova run android
 ```
 
 Substitute ios for android if not on a Mac.
